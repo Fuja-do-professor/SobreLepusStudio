@@ -74,10 +74,10 @@ A Lepus Studio é formada por estudantes da disciplina de **Programação Orient
 
 Cada integrante participa do planejamento, desenvolvimento e organização dos projetos publicados pela empresa.
 
-BackEnd: Maria Eduarda e Bianca
-Tela de login: Bruna Witney
-Cenário: Isadora e Isaac
-Personagens: Suellen
+* BackEnd: Maria Eduarda e Bianca
+* Tela de login: Bruna Witney
+* Cenário: Isadora e Isaac
+* Personagens: Suellen
 
 ---
 
